@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Commercial licensing
+    url: mailto:info@mirrorfractal.com?subject=MFC%20Commercial%20Licensing
+    about: Commercial licenses, custom integrations, OEM royalties.
+  - name: Security disclosure
+    url: mailto:security@mirrorfractal.com?subject=%5BSECURITY%5D%20MFC
+    about: Responsible disclosure. Please do not open public issues for security bugs.
+  - name: Try the live demo
+    url: https://codec.mirrorfractal.com
+    about: Browser WASM demo — drop a recording, see the compression in real time.

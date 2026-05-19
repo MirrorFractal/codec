@@ -1,0 +1,33 @@
+name: Benchmark request
+description: Public benchmark on an open dataset. For commercial pilots, email info@mirrorfractal.com.
+labels: [benchmark]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For commercial benchmarks on proprietary data, email
+        [info@mirrorfractal.com](mailto:info@mirrorfractal.com). This template
+        is for public benchmarks on open datasets only.
+  - type: input
+    id: dataset
+    attributes:
+      label: Dataset
+      placeholder: "DSEC, TUM-VIE, MVSEC, N-Caltech101, …"
+    validations:
+      required: true
+  - type: input
+    id: sensor
+    attributes:
+      label: Sensor
+      placeholder: "Prophesee Gen4 1280x720, DAVIS346, DVS128, custom…"
+    validations:
+      required: true
+  - type: input
+    id: format
+    attributes:
+      label: Data format
+      placeholder: ".aedat / .h5 / .raw / .csv / .npy"
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use case

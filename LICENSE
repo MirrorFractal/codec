@@ -1,0 +1,28 @@
+Mirror Fractal Codec (MFC)
+Copyright (c) 2026 Aleksei Solonskii.  All rights reserved.
+
+PROPRIETARY — PATENT PENDING (United States Provisional Application
+No. 64/034,974, filed 10 April 2026).
+
+No part of this software, its compiled artifacts, or its accompanying
+documentation may be copied, modified, redistributed, incorporated into
+derivative works, reverse engineered, decompiled, or disassembled,
+in whole or in part, without the prior written permission of the
+copyright holder.
+
+Binary distributions on the Python Package Index (package name
+`mfc-codec`) are made available under the same proprietary terms
+solely for evaluation, academic research, and non-commercial
+experimentation.  Use in a commercial product, offering, or service —
+whether internal or external, whether revenue-generating or not —
+requires a separate written license from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.  IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+For licensing inquiries: info@mirrorfractal.com
